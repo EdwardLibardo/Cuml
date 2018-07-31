@@ -1,0 +1,27 @@
+
+1squid:S1220""Move this file to a named package.
+usquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¯¨Óüÿÿÿÿ8³‡æÚÎ,
+psquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­üÙæ8ÍôŸßÎ,
+esquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡
+wsquid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌËñ8ÍôŸßÎ,
+psquid:S00117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿô¶ú8¥©…ßÎ,
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(¶•ì½8ışÃâÎ,
+csquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(éä’¹ùÿÿÿÿ8³‡æÚÎ,
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(µ˜†“8à‘²îÎ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì»¤…8³‡æÚÎ,
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¯¨Óüÿÿÿÿ8³‡æÚÎ,
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Â©Âşùÿÿÿÿ8³‡æÚÎ,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¤ˆßÖüÿÿÿÿ8½æ’îÎ,
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¶•ì½8¥©…ßÎ,
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“ƒ­åúÿÿÿÿ8¥©…ßÎ,
+isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(©’ ¥8™ïßÎ,
+V
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ïß¦Ğ8…êşéÎ,
